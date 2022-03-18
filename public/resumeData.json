@@ -1,0 +1,176 @@
+{
+  "main": {
+    "name": "Amrutha A.J",
+    "occupation": "Senior JavaScript Developer",
+    "description": "I am a {{AGE}} years old with {{EXPERIENCE}} years of experience in JavaScript programming.",
+    "image": "profilepic.jpg",
+    "bio": "I am Amrutha A.J from Thrissur, India. I am a {{AGE}} years old with {{EXPERIENCE}} years of experience in JavaScript programming, both front-end(AngularJS) and backend(nodeJS, PostgreSQL). I am a hobbyist artist, so I have a special place in my heart for front-end development. I rescue and foster cats, and I'm confident in handling some of the difficult kitties out there. I enjoy cooking, thriller movies, and rock music!",
+    "contactmessage": "If you have something interesting to discuss, I'd love to hear. Please contact me!",
+    "email": "amruthaajadiyath@gmail.com",
+    "phone": "+91-860-645-9092",
+    "address": {
+      "street": "Poonkunnam",
+      "city": "Thrissur",
+      "state": "Kerala",
+      "zip": "680002"
+    },
+    "website": "https://amruthaaj.com",
+    "resumedownload": "../files/Amrutha_AJ.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/a.j.amrutha",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://in.linkedin.com/in/amruthaaj",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/amruthaaj_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Amrutha-A-J",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "deviantart",
+        "url": "https://www.deviantart.com/blaringpsylence",
+        "className": "fa fa-deviantart"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "The following are my current skills and my expertise",
+    "education": [
+      {
+        "school": "Government Engineering College, Palakkad (Calicut University)",
+        "degree": "Bachelor's in Technology (Computer Science and Engineering)",
+        "graduated": "2017",
+        "description": "I have learned concepts of data structures and algorithms in detail here. I also taught myself some modern technologies including HTML and JavaScript and started creating some websites myself during my study period for course projects as well as personal projects"
+      }
+    ],
+    "work": [
+      {
+        "company": "QBurst Technologies",
+        "title": "Senior JavaScript Developer",
+        "years": "March 2018 - Present",
+        "description": "I initially worked as a front-end developer in AngularJS here. I am presently working on the backend side in nodeJS with PostgreSQL."
+      },
+      {
+        "company": "Cybrilla Technologies",
+        "title": "Front-end Developer",
+        "years": "July 2016 - September 2016",
+        "description": "Learned about various front-end development technologies, Learned to convert wire-frames to web pages"
+      }
+    ],
+    "skills": [
+      {
+        "name": "NodeJS",
+        "level": "85%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "70%"
+      },
+      {
+        "name": "AngularJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Laxmanfitness.in",
+        "category": "Website for my father's business",
+        "image": "laxmanfitness.png",
+        "url": "https://laxmanfitness.in/"
+      },
+      {
+        "title": "theOathWriter.com",
+        "category": "(offline now) Portfolio website for a friend",
+        "image": "oathwriter.png",
+        "url": "https://amruthaaj.com/TheOathWriter/"
+      },
+      {
+        "title": "Mama",
+        "category": "One of my creative works",
+        "image": "mama.jpg",
+        "url": "https://www.deviantart.com/blaringpsylence/art/Mama-702693824"
+      },
+      {
+        "title": "Hope",
+        "category": "One of my creative works",
+        "image": "portfolio-1.jpg",
+        "url": "https://www.deviantart.com/blaringpsylence/art/Hope-728825952"
+      },
+      {
+        "title": "Blurred Lines",
+        "category": "One of my creative works",
+        "image": "portfolio-3.jpg",
+        "url": "https://www.deviantart.com/blaringpsylence/art/Blurred-Lines-703542722"
+      },
+      {
+        "title": "A journey through time",
+        "category": "One of my creative works",
+        "image": "portfolio-4.jpg",
+        "url": "https://www.deviantart.com/blaringpsylence/art/A-Journey-through-time-702818485"
+      },
+      {
+        "title": "Mother",
+        "category": "One of my creative works",
+        "image": "portfolio-5.jpg",
+        "url": "https://www.deviantart.com/blaringpsylence/art/Mother-791880319"
+      },
+      {
+        "title": "Feeling Normal",
+        "category": "One of my creative works",
+        "image": "portfolio-6.jpg",
+        "url": "https://www.deviantart.com/blaringpsylence/art/Normal-is-relative-huh-703660742"
+      },
+      {
+        "title": "Anamika",
+        "category": "One of my creative works",
+        "image": "portfolio-7.jpg",
+        "url": "https://www.deviantart.com/blaringpsylence/art/Anamika-705779645"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "user1"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "user2"
+      }
+    ]
+  }
+}
