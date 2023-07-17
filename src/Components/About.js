@@ -37,7 +37,7 @@ class About extends Component {
             <img
               className="profile-pic"
               src={profilepic}
-              alt="Tim Baker Profile Pic"
+              alt="Amrutha AJ Profile Pic"
             />
           </div>
           <div className="nine columns main-col">
@@ -55,8 +55,6 @@ class About extends Component {
                     <br />
                     {city} {state}, {zip}
                   </span>
-                  <br />
-                  <span>{phone}</span>
                   <br />
                   <span>{email}</span>
                 </p>
