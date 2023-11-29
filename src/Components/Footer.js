@@ -22,7 +22,7 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul className="copyright">
-              <li>&copy; Copyright {year} Amrutha A.J</li>
+              <li>&copy; Copyright {year} Amrutha Adiyath</li>
             </ul>
           </div>
           <div id="go-top">
