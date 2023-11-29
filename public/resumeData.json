@@ -1,18 +1,22 @@
 {
   "main": {
-    "name": "Amrutha A.J",
-    "occupation": "Senior JavaScript Developer",
-    "description": "I am a {{AGE}} years old with {{EXPERIENCE}} years of experience in JavaScript programming.",
+    "name": "Amrutha Adiyath",
+    "occupation": "Senior Developer",
+    "description": As a seasoned JavaScript Developer, I bring {{EXPERIENCE}} years of experience to the table. At the age of {{AGE}}, I hold a senior position in my field, specializing in JavaScript programming.",
     "image": "profilepic.jpg",
-    "bio": "I am Amrutha A.J from Thrissur, India. I am a {{AGE}} years old with {{EXPERIENCE}} years of experience in JavaScript programming, both front-end(AngularJS) and backend(nodeJS, PostgreSQL). I am a hobbyist artist, so I have a special place in my heart for front-end development. I rescue and foster cats, and I'm confident in handling some of the difficult kitties out there. I enjoy cooking, thriller movies, and rock music!",
+    "bio": "Greetings! I’m Amrutha Adiyath, currently residing in the vibrant city of Moose Jaw, Canada. At the age of {{AGE}}, I’ve amassed {{EXPERIENCE}} years of comprehensive experience in JavaScript programming, mastering both front-end and backend technologies such as AngularJS, NodeJS, and PostgreSQL.
+
+As an artist by hobby, I have a particular fondness for front-end development, where I can blend my technical skills with my creative flair. My love for animals has led me to rescue and foster cats, and I take pride in my ability to handle even the most challenging felines.
+
+In my downtime, you’ll find me experimenting in the kitchen, engrossed in a thrilling movie, or unwinding to the tunes of rock music!",
     "contactmessage": "If you have something interesting to discuss, I'd love to hear. Please contact me!",
     "email": "amruthaajadiyath@gmail.com",
     "phone": "+91-860-645-9092",
     "address": {
-      "street": "Poonkunnam",
-      "city": "Thrissur",
-      "state": "Kerala",
-      "zip": "680002"
+      "street": "Caribou St W",
+      "city": "Moose Jaw",
+      "state": "Saskatchewan",
+      "zip": "S6H2K4"
     },
     "website": "https://amruthaaj.com",
     "resumedownload": "../files/Amrutha_AJ.pdf",
@@ -48,18 +52,30 @@
     "skillmessage": "The following are my current skills and my expertise",
     "education": [
       {
+        "school": "Saskatchewan Polytechnic",
+        "degree": "Post Graduate Diploma in Technology management",
+        "graduated": "2024",
+        "description": "Through this program, I have honed my skills in Java-based project development and software architecture, using SQL server as a back-end database. I have also gained a thorough knowledge of network management principles and protocols. Moreover, this program has sharpened my business communication abilities, such as conflict resolution and negotiation skills."
+      },
+      {
         "school": "Government Engineering College, Palakkad (Calicut University)",
         "degree": "Bachelor's in Technology (Computer Science and Engineering)",
         "graduated": "2017",
-        "description": "I have learned concepts of data structures and algorithms in detail here. I also taught myself some modern technologies including HTML and JavaScript and started creating some websites myself during my study period for course projects as well as personal projects"
+        "description": "During my academic journey, I delved deep into the intricacies of data structures and algorithms. My self-motivated learning approach led me to explore modern technologies such as HTML and JavaScript. This newfound knowledge sparked my interest in web development, prompting me to create a variety of websites. These projects, ranging from course-related to personal endeavors, served as practical applications of my theoretical understanding."
       }
     ],
     "work": [
+            {
+        "company": "PetValu Moose Jaw",
+        "title": "Store Associate(part-time)",
+        "years": "August 2023 - Present",
+        "description": "As a customer service specialist, I assist customers in finding the right products for their needs, answering their questions, and providing them with relevant information. I strive to build lasting relationships with customers and enhance their experience. I also handle phone and online orders, ensuring they are processed and fulfilled efficiently. Additionally, I manage inbound calls and resolve customer issues in the first interaction."
+      },
       {
         "company": "QBurst Technologies",
         "title": "Senior JavaScript Developer",
-        "years": "March 2018 - Present",
-        "description": "I initially worked as a front-end developer in AngularJS here. I am presently working on the backend side in nodeJS with PostgreSQL."
+        "years": "March 2018 - July 2023",
+        "description": "My journey began as a front-end developer, specializing in AngularJS. Later, I’ve transitioned to backend development, utilizing NodeJS in conjunction with PostgreSQL."
       },
       {
         "company": "Cybrilla Technologies",
@@ -82,6 +98,10 @@
         "level": "80%"
       },
       {
+        "name": "Java",
+        "level": "45%"
+      },
+      {
         "name": "CSS",
         "level": "90%"
       },
@@ -91,7 +111,7 @@
       },
       {
         "name": "TypeScript",
-        "level": "60%"
+        "level": "50%"
       },
       {
         "name": "Git",
