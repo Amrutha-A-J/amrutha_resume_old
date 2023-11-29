@@ -2,13 +2,9 @@
   "main": {
     "name": "Amrutha Adiyath",
     "occupation": "Senior Developer",
-    "description": As a seasoned JavaScript Developer, I bring {{EXPERIENCE}} years of experience to the table. At the age of {{AGE}}, I hold a senior position in my field, specializing in JavaScript programming.",
+    "description": "As a seasoned JavaScript Developer, I bring {{EXPERIENCE}} years of experience to the table. At the age of {{AGE}}, I hold a senior position in my field, specializing in JavaScript programming.",
     "image": "profilepic.jpg",
-    "bio": "Greetings! I’m Amrutha Adiyath, currently residing in the vibrant city of Moose Jaw, Canada. At the age of {{AGE}}, I’ve amassed {{EXPERIENCE}} years of comprehensive experience in JavaScript programming, mastering both front-end and backend technologies such as AngularJS, NodeJS, and PostgreSQL.
-
-As an artist by hobby, I have a particular fondness for front-end development, where I can blend my technical skills with my creative flair. My love for animals has led me to rescue and foster cats, and I take pride in my ability to handle even the most challenging felines.
-
-In my downtime, you’ll find me experimenting in the kitchen, engrossed in a thrilling movie, or unwinding to the tunes of rock music!",
+    "bio": "Greetings! I am Amrutha Adiyath, currently residing in the vibrant city of Moose Jaw, Canada. At the age of {{AGE}}, I have amassed {{EXPERIENCE}} years of comprehensive experience in JavaScript programming, mastering both front-end and backend technologies such as AngularJS, NodeJS, and PostgreSQL. As an artist by hobby, I have a particular fondness for front-end development, where I can blend my technical skills with my creative flair. My love for animals has led me to rescue and foster cats, and I take pride in my ability to handle even the most challenging felines. In my downtime, you will find me experimenting in the kitchen, engrossed in a thrilling movie, or unwinding to the tunes of rock music!",
     "contactmessage": "If you have something interesting to discuss, I'd love to hear. Please contact me!",
     "email": "amrutha.laxman93@gmail.com",
     "phone": "+1 639-538-1185",
