@@ -1,3 +1,8 @@
-Portfolio website for amruthaaj.com
+To run in localhost:
+npm start
 
-node version 16
+To update gh-pages branch and deploy all together:
+npm run build
+npm run deploy
+
+no need to checkout gh-pages branch and update
