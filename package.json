@@ -8,6 +8,7 @@
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "gh-pages-deploy": "^0.5.1",
+    "git-gui": "^0.0.7",
     "jquery": "^3.6.0",
     "prettier": "^2.6.0",
     "react": "^17.0.2",
