@@ -2,9 +2,10 @@
   "main": {
     "name": "Amrutha Adiyath",
     "occupation": "Full Stack Developer",
-    "description": "A passionate and empathetic programmer with {{EXPERIENCE}} years of extensive technical expertise. I take immense pride in the quality of my code. My experience spans across front-end and back-end development, as well as database design and development.",
+    "description": "I consider myself to be passionate and empathetic programmer and a people person. With {{EXPERIENCE}} years of extensive technical expertise, I take immense pride in the quality of my code. My experience spans across front-end and back-end development, as well as database design and development.",
     "image": "profilepic.jpg",
-    "bio": "Greetings! I am Amrutha Adiyath, currently residing in the vibrant city of Moose Jaw, Canada. At the age of {{AGE}}, I have amassed {{EXPERIENCE}} years of comprehensive experience in programming, mastering both front-end and backend technologies such as ReactJS, Java, Python, and PostgreSQL. As an artist by hobby, I have a particular fondness for front-end development, where I can blend my technical skills with my creative flair. My love for animals has led me to rescue and foster cats, and I take pride in my ability to handle even the most challenging felines. In my downtime, you will find me experimenting in the kitchen, engrossed in a thrilling movie, or unwinding to the tunes of rock music!",
+    "bio": "Greetings! I am Amrutha Adiyath, currently residing in the vibrant city of Moose Jaw, Saskatchewan. I have amassed {{EXPERIENCE}} years of comprehensive experience in programming, mastering both front-end and backend technologies such as ReactJS, Java, Python, and PostgreSQL.",
+    "bio_p": "As an artist by hobby, I have a particular fondness for front-end development, where I can blend my technical skills with my creative flair. My love for animals has led me to rescue and foster cats, and I take pride in my ability to handle even the most challenging felines. In my downtime, you will find me playing a game, experimenting in the kitchen, engrossed in a thrilling movie, or unwinding to the tunes of rock music!",
     "contactmessage": "If you have something interesting to discuss, I'd love to hear from you. Please contact me!",
     "email": "amrutha.laxman93@gmail.com",
     "phone": "+1 639-538-1185",

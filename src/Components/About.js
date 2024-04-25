@@ -21,6 +21,13 @@ class About extends Component {
           '{{EXPERIENCE}}',
           Math.round(monthDiff(new Date(2018, 3), new Date())),
         );
+      var bio_p = this.props.data.bio_p;
+      bio_p = bio_p
+        .replace('{{AGE}}', new Date().getFullYear() - 1993)
+        .replace(
+          '{{EXPERIENCE}}',
+          Math.round(monthDiff(new Date(2018, 3), new Date())),
+        );
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
@@ -44,6 +51,7 @@ class About extends Component {
             <h2>About Me</h2>
 
             <p>{bio}</p>
+            <p>{bio_p}</p>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>

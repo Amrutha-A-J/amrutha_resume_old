@@ -21,7 +21,7 @@ class Header extends Component {
           '{{EXPERIENCE}}',
           Math.round(monthDiff(new Date(2018, 3), new Date())),
         );
-      var city = this.props.data.address.city;
+      var state = this.props.data.address.state;
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
