@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.31d6cfe0.css",
-    "main.js": "/static/js/main.a1c7517e.js",
-    "index.html": "/index.html",
-    "main.a1c7517e.js.map": "/static/js/main.a1c7517e.js.map"
+    "main.css": "/amrutha_resume_old/static/css/main.31d6cfe0.css",
+    "main.js": "/amrutha_resume_old/static/js/main.cc84feb2.js",
+    "index.html": "/amrutha_resume_old/index.html",
+    "main.cc84feb2.js.map": "/amrutha_resume_old/static/js/main.cc84feb2.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.a1c7517e.js"
+    "static/js/main.cc84feb2.js"
   ]
 }
